@@ -1,0 +1,39 @@
+body
+{ 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image: url("https://img.freepik.com/free-photo/green-slate_1205-377.jpg?1&w=900&t=st=1677363872~exp=1677364472~hmac=8eba1f97d10db5afd797485d41d207b6fdf40c29304e457d104ba120b09f8ba1");
+    background-size: cover;
+    text-align: center;
+    color: aliceblue;
+    font-weight: bold;
+
+}
+
+
+h1{
+
+    color: goldenrod;
+}
+
+#message-el
+{
+   font-style: italic;
+}
+
+button{
+    
+    color: #016f32;
+    background-color: burlywood;
+    width: 150px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bolder;
+    border: none;
+    font-size: medium;
+    border-radius: 2px;
+    margin-bottom: 4px;
+    margin-top: 4px;
+
+     
+}
+
